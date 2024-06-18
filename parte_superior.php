@@ -13,16 +13,9 @@
 <menu>
     <div class="menu-izquierda">
         <a href="./index.php">
-        <img src="./Images/menu.png" alt="">
+        <img src="./Images/logo1.jpeg" alt="">
 
         </a>
-
-        <p class="texto-menu-izquierda">
-            La telarana de la arana 
-        </p>
-
-
-
     </div>
 
 

@@ -3,23 +3,23 @@
 *{
     margin: 0;
     padding: 0;
+    background: grey;
+    max-width: 1140px;
+    justify-content: center;
 }
 
 .menu-izquierda {
-    background: brown;
+    /* background: brown; */
     width: 25%;
     height: 125px;
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
+    margin-top: 50px;
 }
 
 .menu-izquierda img {
-    width: 50px;
-
-}
-
-.texto.menu-izquierda {
+    width: 230px;
 
 }
